@@ -60,7 +60,7 @@ No installation or build steps required.
 2. Open `index.html` in any modern browser
 
 ```bash
-git clone https://github.com/khdcoder/sales-dashboard.git
+git clone https://github.com/khdxsohee/sales-dashboard.git
 cd sales-dashboard
 # then open index.html in your browser
 ```
@@ -133,9 +133,9 @@ Distributed under the **MIT License**. See `LICENSE` for more information.
 
 ## 👤 Author
 
-**khdcoder**
+**khdxsohee**
 
-- GitHub: [@khdcoder](https://github.com/khdcoder)
+- GitHub: [@khdxsohee](https://github.com/khdxsohee)
 
 ---
 
